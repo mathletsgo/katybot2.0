@@ -1,0 +1,69 @@
+[
+  {
+    "name": "😎💯 Por cento Floripa 👑👑🥽💍",
+    "groupId": "120363267423027269@g.us",
+    "x9": true,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": false,
+    "antiloc": true,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antilinkeasy": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": true,
+    "visuUnica": true,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "."
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "ausentes": [],
+    "ANTI_DDD": {
+      "active": false,
+      "listaProibidos": []
+    },
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "😎seja bem vindo🤫 ao Grupo AMIGOS DE FLORIANÓPOLIS \nE um grupo de amizades paqueras rolês encontros trilhas fique a vontade❤️ (a) #numerodele#",
+        "legendasaiu": ".legendabv saiu porque quis espero que volte (a) #numerodele#"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": true,
+    "level": true,
+    "bangp": false,
+    "modo_rpg": false
+  }
+]

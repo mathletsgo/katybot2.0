@@ -1,0 +1,69 @@
+[
+  {
+    "name": "𝕶.𝕺",
+    "groupId": "120363322646321261@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antilinkeasy": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "."
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "ausentes": [],
+    "ANTI_DDD": {
+      "active": false,
+      "listaProibidos": []
+    },
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": " @ ★彡[ꜰᴀʟᴀ ᴀɴᴊᴏ, ꜱᴇᴊᴀ ʙᴇᴍ ᴠɪɴᴅᴏ 🔥ʟᴇɪᴀ ᴀꜱ ʀᴇɢʀᴀꜱ  ᴇ ꜱᴇ ᴅɪᴠɪʀᴛᴀ\n🫶🏻🫶🏼🫶🏽🫶🏾🫶🏿\n📷ꜰᴏᴛᴏ\n📰ɴᴏᴍᴇ\n🌈ꜱᴇxᴜᴀʟɪᴅᴀᴅᴇ\n🔢ɪᴅᴀᴅᴇ ᴠᴄ\nQᴜᴇᴍ ɴÃᴏ ꜰᴏʀ ꜱᴇ ᴀᴘʀᴇꜱᴇɴᴛᴀʀ ᴘᴇᴅɪᴍᴏꜱ Qᴜᴇ ꜱᴇ ʀᴇᴛɪʀᴇ ᴏᴜ ꜱᴇʀÁ ʀᴇᴍᴏᴠɪᴅᴏ]彡★",
+        "legendasaiu": "desativar"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "modo_rpg": false
+  }
+]
