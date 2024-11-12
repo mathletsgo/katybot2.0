@@ -1,0 +1,28 @@
+KATYBOT
+├── assets
+│   ├── auth
+│   ├── images
+│   └── temp
+├── database
+│   ├── config
+│   │   ├── auto-responder.json
+│   │   ├── anti-link-groups.json
+│   └── storage
+│       ├── inactive-groups.json
+├── node_modules
+├── src
+│   ├── commands
+│   │   ├── admin
+│   │   ├── member
+│   │   └── owner
+│   ├── errors
+│   ├── middlewares
+│   ├── services
+│   ├── utils
+│   │   ├── config.js
+│   │   ├── connection.js
+│   │   ├── loader.js
+│   │   └── test.js
+├── .gitignore
+├── index.js
+└── LICENSE
